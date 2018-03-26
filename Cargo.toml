@@ -1,0 +1,6 @@
+[package]
+name = "r-tree"
+version = "0.1.0"
+authors = ["Jim Powers <jim@corruptmemory.com>"]
+
+[dependencies]
